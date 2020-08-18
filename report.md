@@ -8,13 +8,15 @@
 
 ## В результате тестирования выявлены следующие дефекты:
 
-[Bug-report](https://github.com/MFV72/Java-HomeWork-1/issues/1#issue-681098951)
+* [Bug-report #1](https://github.com/MFV72/Java-HomeWork-1/issues/1#issue-681098951)
 
+* [Bug-report #2](https://github.com/MFV72/Java-HomeWork-1/issues/2#issue-681141557)
 
 ## Описание процесса тестирования
 
 Для запуска приложения KeyValidator требуется установленная Java. Java была установлена по [инструкции](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md/) на компьютер с ситемой Windows. Установка прошла без сбоев и ошибок.
 Далее согласно [Руководство пользователя](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md) было запущено и протестировано приложение KeyValidator. Для тестирования работы приложения использовались данные (ключи) из руководства пользователя.
+Так же был использован заведомо неверный формат ключа "0-9999-9999-9999-oooooooooooo". Выявленые дефекты были зафиксированы и описаны.
 
 В качестве тестовых данных использовались:
 * [инструкция по установке OpenJDK11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md/) на ОС Windows
